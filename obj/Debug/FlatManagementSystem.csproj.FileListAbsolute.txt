@@ -1,0 +1,16 @@
+D:\AIUB NOTES\FlatManagementSystem\bin\Debug\FlatManagementSystem.exe.config
+D:\AIUB NOTES\FlatManagementSystem\bin\Debug\FlatManagementSystem.exe
+D:\AIUB NOTES\FlatManagementSystem\bin\Debug\FlatManagementSystem.pdb
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.csprojAssemblyReference.cache
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Form1.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Properties.Resources.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.csproj.GenerateResource.cache
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.csproj.CoreCompileInputs.cache
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.exe
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.pdb
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Information.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Customer.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Employee.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Owner.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.Building.resources
+D:\AIUB NOTES\FlatManagementSystem\obj\Debug\FlatManagementSystem.AdvertisementInfo.resources
